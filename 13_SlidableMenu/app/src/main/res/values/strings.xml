@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Slidable Menu</string>
+    <string name="Open">Open\n</string>
+    <string name="Close">Close</string>
+</resources>
